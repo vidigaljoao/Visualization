@@ -3,7 +3,7 @@ Visualization projects with python
 
 ## 1. Dashboard with Bokeh and Panel
 
-###Stock Forecast Dashboard
+### Stock Forecast Dashboard
 
 ![Example of the dashboard](https://raw.githubusercontent.com/vidigaljoao/visualization/master/stock_forecast/dash_stocks.gif)
 
