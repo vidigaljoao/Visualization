@@ -1,2 +1,3 @@
-# visualization
+# Visualization
 Visualization projects with python
+
